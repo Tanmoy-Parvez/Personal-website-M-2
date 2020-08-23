@@ -48,10 +48,110 @@ p{
 
     text-decoration: none;
     background-image:linear-gradient(45deg ,rgb(240, 73, 101),rgb(245, 38, 141));
-    color:black;
+    color:#fff;
     padding: 8px 30px;
     border-radius: 3px;
     font-size: 15px;
     
-
 }
+
+.second-sec{
+    background-image: url(../img/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+   
+}
+
+
+.third-sec{
+    background-image: url(../img/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+}
+
+.third-sec h2{
+    font-size: 45px;
+}
+
+.pic-box{
+    width: 30%;
+    height: 50%;
+    display:inline-block;
+    margin-top: 110px;
+    margin-left: 15px;
+}
+
+.pic-box img{
+    width: 100%;
+    height: 100%;
+}
+
+.footer-sec{
+    background-image: url(../img/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+}
+.footer-sec h2{
+    font-size: 45px;
+}
+
+.footer-sec h3{
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.footer-sec h4{
+    color:gray;
+    margin-top: 5px;
+    letter-spacing: 1px;
+}
+
+.tag-lines{
+    margin-top: 40px;
+    color: #000;
+    font-size:22px;
+}
+
+.message-sec{
+    width: 65%;
+    height: 22%;
+    background:rgb(248, 46, 130);
+    margin:auto;
+    border-radius: 10px;
+    padding-top: 70px;
+    margin-top: 50px;
+}
+
+
+.message-sec p{
+    color:#fff;
+    margin: 0;
+    font-size:22px;
+}
+
+.message-sec h2{
+    color:#fff;
+    margin-top: 20px;
+    font-size:32px;
+    letter-spacing: 5px;
+}
+
+footer{
+    color: gray;
+    margin-top: 160px;
+}
+
+
+
+
+
+
+
+
+
+
